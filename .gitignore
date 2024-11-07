@@ -1,0 +1,13 @@
+# Ignore PHP vendor directory
+/vendor/
+/node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore logs
+*.log
